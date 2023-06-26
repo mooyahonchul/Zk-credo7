@@ -1,0 +1,9 @@
+Early civilizations used bookkeeping and ledgers to track transactions, empowering individuals and communities to manage their finances and cooperate. The printing press democratized knowledge by making information affordable, sparking critical thinking and scientific advancement.
+
+The Industrial Revolution, powered by the technological breakthroughs of the steam engine and mechanization, propelled unprecedented economic and societal prosperity.
+
+In the twentieth century, the rise of cryptography and the Internet transformed communication and information access. This expansion of personal freedoms created economic opportunities for billions of people.
+
+Today, we're at the dawn of a new era with blockchains and Web3. Like the Internet once did for information, Web3 is changing the landscape for digital ownership and value exchange. It offers promising new forms of societal organization, e.g. "network states" 1.
+
+The journey through the waves of the cryptographic revolution is ongoing. With public-key cryptography and blockchains marking the first and second waves, we now face the third: the ZK Revolution. Coupled with Web3, the ZK Revolution is set to redefine our collective future, standing as testament to technology's power to unlock personal freedom.
